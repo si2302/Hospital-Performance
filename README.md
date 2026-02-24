@@ -21,3 +21,5 @@ Data Visualization: Power BI / Tableau (Select the one you used)
 Data Processing: DAX / SQL / Excel (Mention your data source)
 
 Design: Custom theme for high-contrast visibility and readability.
+## dashboard link:
+https://tinyurl.com/1p24mb02
